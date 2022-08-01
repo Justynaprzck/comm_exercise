@@ -1,0 +1,3 @@
+-module(u_sup_tests).
+-define(DEBUG,true).
+-include_lib("eunit/include/eunit.hrl").
